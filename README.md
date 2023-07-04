@@ -1,2 +1,2 @@
-# demography
-Tarea de la clase Analítica descriptiva y visualización de datos
+# Demography
+Tarea de la clase Ciencia de los Datos Aplicada
